@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ae1571e5fb19896871c5",
+    "revision": "f30fb4bb51ee9833f94f",
     "url": "/webfront.dev/static/css/main.d37769d8.chunk.css"
   },
   {
-    "revision": "ae1571e5fb19896871c5",
-    "url": "/webfront.dev/static/js/main.ae1571e5.chunk.js"
+    "revision": "f30fb4bb51ee9833f94f",
+    "url": "/webfront.dev/static/js/main.f30fb4bb.chunk.js"
   },
   {
     "revision": "93c92d6535fd84c3604c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/webfront.dev/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "040d63bde16047e9e4b64c14d7651c2c",
+    "revision": "0c04ce703c1ce7c5fbe321aea9fcf9a5",
     "url": "/webfront.dev/index.html"
   }
 ];
